@@ -1,2 +1,2 @@
-# Rock-Paper-Scisoors
-Game of Rock-Paper-Scisoors
+# Rock-Paper-Scissors
+Game of Rock-Paper-Scissors
